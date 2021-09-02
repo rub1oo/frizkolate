@@ -1,0 +1,29 @@
+#foto_de_perfil {
+    background-color: black;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: white;
+    padding: 4px;
+    position: relative;
+    top: 250px;
+    
+}
+
+#instagram_home {
+    margin: 10px;
+}
+
+.datos {
+    text-align: center;
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+#fondo_de_perfil {
+    
+    border-radius: 70px;
+    position: absolute;
+    width: 500px;
+    left: 700px;
+    
+}
+
