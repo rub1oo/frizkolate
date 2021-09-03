@@ -1,0 +1,41 @@
+
+
+.centrado {
+    text-align: center;
+}
+
+#Frizko {
+    font-family: 'Lobster', cursive;
+}
+
+#foto_de_perfil {
+    border-radius: 100px;
+    border: 5px solid black;
+    margin-top: 30px;
+    }
+
+#descripcion {
+    font-family: 'Kaisei Tokumin', serif;
+}
+
+.post {
+    border-radius: 20px;
+    width: 200px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: solid 2px black;
+    
+}
+
+#borde {
+    padding: 10px solid black;
+}
+
+#footer {
+    padding: 30px;
+}
+
+#JAA {
+    color: white;
+}
